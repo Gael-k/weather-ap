@@ -184,7 +184,7 @@ body::before {
 }
 .message-img{
     height: 180px;
-    width: fit-content;
+    width: 200px;
 }
 
 
